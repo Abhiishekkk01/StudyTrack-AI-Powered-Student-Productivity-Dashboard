@@ -21,9 +21,9 @@ Google Fonts — Space Grotesk, DM Sans
 
 ⚡ Getting Started
 No installation required. Just open the file in a browser.
-bashgit clone https://github.com/your-username/studytrack.git
+bashgit clone [https://github.com/your-username/studytrack.git](https://abhiishekkk01.github.io/StudyTrack-AI-Powered-Student-Productivity-Dashboard/)
 cd studytrack
-open student-dashboard-enhanced.html
+open index.html
 
 The AI Syllabus Extractor requires an active internet connection to call the Anthropic Claude API.
 
