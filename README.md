@@ -19,17 +19,12 @@ Chart.js — analytics charts
 Anthropic Claude API — AI syllabus extraction
 Google Fonts — Space Grotesk, DM Sans
 
-⚡ Getting Started
-No installation required. Just open the file in a browser.
-bashgit clone [https://github.com/your-username/studytrack.git](https://abhiishekkk01.github.io/StudyTrack-AI-Powered-Student-Productivity-Dashboard/)
-cd studytrack
-open index.html
 
 The AI Syllabus Extractor requires an active internet connection to call the Anthropic Claude API.
 
 📁 Project Structure
 studytrack/
-├── student-dashboard-enhanced.html   # Entire app — self-contained
+├── index.html   # Entire app — self-contained
 └── README.md
 🔑 API Usage
 The AI feature uses the Anthropic Claude API (claude-sonnet-4-20250514) directly from the browser. To use your own key, locate the fetch call in the script section and add:
